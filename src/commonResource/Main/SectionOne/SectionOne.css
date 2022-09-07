@@ -1,0 +1,54 @@
+.bg-img {
+  background-image: url(../../images/home/mac-laptop.jpg);
+  /* ../images/home/mac-laptop.jpg */
+  height: 468px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+a {
+  color: #06c;
+}
+img {
+  max-width: 100%;
+}
+.mac {
+  padding: 30px;
+  font-weight: 700;
+  font-size: 56px;
+  padding: 0;
+  height: 60px;
+  align-items: center;
+  flex: content;
+  /* margin-bottom: 20px; */
+  vertical-align: middle;
+}
+.sec-1 {
+  text-align: center;
+  padding-top: 80px;
+}
+.inch {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+}
+.desc {
+  font-size: 2em;
+  padding: 10px;
+}
+.blue {
+  color: #06c;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.blue a {
+  text-decoration: none;
+}
+.blue a:hover {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  /* content: "\F105"; */
+  padding-left: 10px;
+}
+.cart {
+  padding-left: 20px;
+}
